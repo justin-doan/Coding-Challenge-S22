@@ -1,6 +1,6 @@
 # Justin Doan
 
-## (Brief) Explanation of Solution
+## Explanation of Solution
 The solution I came up with uses a model that employs logistic regression to classify the mushrooms as either poisonous or edible. The solution was coded in Python in a Jupyter notebook, and uses the included Logistic Regression package in the sci-kit learn library to create a model that could be trained to predict the edibility of the mushrooms. I also used pandas to import the data to a dataframe as well as seaborn and matplotlib in order to display a confusion matrix which helped visualize how well the model was able to perform. 
 
 ## Design Process
