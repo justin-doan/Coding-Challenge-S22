@@ -24,7 +24,7 @@ Additionally, the only pre-processing of the data I did was encoding the categor
 
 I think if I were to revisit this problem again, I would absolutely be interested in learning more about and impelementing some of the other classification algorithms and methods that are used, some of which I mentioned earlier. I'm especially curious about Random Forests, as I came across a lot of intresting information on both how it works and how well it is able to make predictions. I also think it would be very interesting to compare the performances off the different algorithms in order to see the benefits, drawbacks, and any other interesting observations.
 ### Learning Takeaways
-To put it simply, I learned a lot, not just about binary classification, but just about programming in general.
+To put it simply, I learned a lot, not just about binary classification, but about programming in general.
 
 Having come from absolutely zero knowledge on binary classification, I became aware of the process of applying a classification algorithm to a dataset in order to make predictions on a target variable. Additionally, I was exposed to the many different methods of classification and how we can make predictions using an existing data set. Furthermore, I was exposed to a ton of Python concepts I had never really worked with, such as importing data using pandas, using the sci-kit learn library to analyze the data, and working with matplotlib and seaborn to visualize my results. I also learned a ton about markdown and how it works in a jupyter notebook.
 
