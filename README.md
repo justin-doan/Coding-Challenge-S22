@@ -31,7 +31,7 @@ Having come from absolutely zero knowledge on binary classification, I became aw
 Additionally, I learned quite a bit about being a better programmer. I've only been exposed to code for a year and a half, starting with CS1336 in the fall of 2020, so for the most part I had never dug through library documentation to format a label or done research to figure out the best way to overcome a coding obstacle such as encoding categorical variables. In fact, even through submitting this challenge, I learned quite a bit about how github works and what it means to 'fork' and 'clone' a repo. The process of working through this coding challenge has truly allowed me to sort of experience the aspects of being a programmer that aren't taught in the walls of a university classroom.
 
 ### Final Thoughts
-I suppose this entire wall of text explaining my design process wasn't part of the challenge requirements and is likely very unneccessary, so **if you made it here, thank you for taking the time to at the very least skim through some of the things I wrote**. I just thought it was important to "pull back the curtains" and provide some insight on how I worked through the coding challenge.
+I suppose this entire wall of text explaining my design process wasn't part of the challenge requirements and is likely very unneccessary, so if you made it here, **thank you for taking the time to at the very least skim through some of the things I wrote**. I just thought it was important to "pull back the curtains" and provide some insight on how I worked through the coding challenge.
 
 I'm very excited about both this semester's research topics and the opportunity to work on one of them. I'm looking forward to the next steps in this process!
 
